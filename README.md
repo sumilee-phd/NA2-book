@@ -1,6 +1,6 @@
 # 네트워크관리사 2급 교재 지원 페이지
 
-공개 주소(예정): https://sumilee-phd.github.io/NA2-book/ · 저장소(예정): https://github.com/sumilee-phd/NA2-book
+공개 주소: https://sumilee-phd.github.io/NA2-book/ · 저장소: https://github.com/sumilee-phd/NA2-book (2026-11-23 첫 공개)
 
 『2027 네트워크관리사 2급』(이수미 지음, 1권 필기·2권 실기)의 교재 지원 페이지입니다. 교재 뒷표지 QR 코드가 이 주소를 가리키므로 쪽 주소를 바꾸지 않습니다.
 
