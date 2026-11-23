@@ -81,7 +81,7 @@
         {
           "q": "라우터 설정은 어떻게 저장하나요?",
           "a": [
-            "copy running-config startup-config 또는 copy r s를 입력한 뒤 파일 이름 물음에 Enter를 누릅니다. [OK]가 나와야 저장된 것입니다. 시험 프로그램은 write와 write memory를 받지 않습니다."
+            "copy running-config startup-config 또는 copy r s를 입력한 뒤 파일 이름 물음에 Enter를 누릅니다. [OK]가 나와야 저장된 것입니다. 시험 프로그램은 write와 write memory를 인식하지 않습니다."
           ],
           "ref": "2권 18.2절 · 18.3절"
         },
@@ -95,7 +95,7 @@
         {
           "q": "Packet Tracer로 라우터를 연습해도 되나요?",
           "a": [
-            "실제 IOS 동작을 보는 용도로 씁니다. Packet Tracer에서는 write memory, Tab 완성, Ctrl+Z가 동작합니다. 시험 프로그램은 이 입력을 받지 않습니다. 시험 전에는 저장은 copy r s, 설정 모드 종료는 end로 연습합니다."
+            "실제 IOS 동작을 보는 용도로 씁니다. Packet Tracer에서는 write memory, Tab 완성, Ctrl+Z가 동작합니다. 시험 프로그램은 이 입력을 인식하지 않습니다. 시험 전에는 저장은 copy r s, 설정 모드 종료는 end로 연습합니다."
           ],
           "ref": "2권 13.3절 표 13-7 · 표 13-8"
         },
