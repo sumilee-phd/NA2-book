@@ -1,0 +1,6 @@
+{
+  "_note": "base_url 은 교재 뒷표지 QR 이 가리키는 고정 주소다. report_url 은 오류 제보 버튼의 목적지로, 구글 폼을 만들면 그 주소로 바꾼다.",
+  "base_url": "https://sumilee-phd.github.io/NA2-book/",
+  "report_url": "https://github.com/sumilee-phd/NA2-book/issues/new?template=errata.yml",
+  "report_label": "GitHub 계정 필요"
+}

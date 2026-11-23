@@ -1,0 +1,41 @@
+{
+  "_note": "연습 웹앱 4종. 구성·장 번호는 2권 앞부속 「연습 웹앱 안내」 표와 1권 앞부속 문장 기준.",
+  "items": [
+    {
+      "id": "cabling",
+      "name": "케이블링 트레이너",
+      "url": "https://sumilee-phd.github.io/NA2-cabling/",
+      "item": "1번",
+      "color": "green",
+      "parts": "개념 학습 · 케이블링 훈련 · 오답 복습 · 실물 케이블 제작 연습(10분)",
+      "book": "1권 12장 · 2권 14장"
+    },
+    {
+      "id": "winsrv",
+      "name": "윈도우 서버 설정 연습기",
+      "url": "https://sumilee-phd.github.io/NA2-winsrv/",
+      "item": "2~9번",
+      "color": "blue",
+      "parts": "8유형 39과제 · 실전 세트(8문항 40분)",
+      "book": "1권 8·9장 · 2권 15·16장"
+    },
+    {
+      "id": "short",
+      "name": "단답형 타자 연습기",
+      "url": "https://sumilee-phd.github.io/NA2-short/",
+      "item": "10~15번",
+      "color": "red",
+      "parts": "93문항 · 계산 8유형 · 실전 세트(6문항 15분)",
+      "book": "2권 17장"
+    },
+    {
+      "id": "router",
+      "name": "라우터 타자 연습기",
+      "url": "https://sumilee-phd.github.io/NA2-router/",
+      "item": "16~18번",
+      "color": "purple",
+      "parts": "25과제 · 명령 해석 기준 선택 · 실전 세트(3문항 20분)",
+      "book": "1권 5·12장 · 2권 18·19장"
+    }
+  ]
+}
