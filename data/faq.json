@@ -69,7 +69,7 @@
         {
           "q": "Linux는 어떤 배포판으로 공부하나요?",
           "a": [
-            "협회 안내와 공지에는 배포판이 지정되어 있지 않습니다. 2026년 제4회에는 RHEL 9 계열의 GRUB 2 부팅, ss, findmnt, lsattr, nc 같은 신형 명령이 출제되었습니다. 이 책의 Linux 장은 RHEL 9 계열인 Rocky Linux 9 기준입니다."
+            "협회 안내와 공지에는 배포판이 지정되어 있지 않습니다. 2026년 제4회에는 RHEL 9 계열의 GRUB 2 부팅, ss, findmnt 같은 신형 명령과 lsattr, nc가 출제되었습니다. 이 책의 Linux 장은 RHEL 9 계열인 Rocky Linux 9 기준입니다."
           ],
           "ref": "1권 1.2절"
         }
