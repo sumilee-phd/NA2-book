@@ -53,7 +53,7 @@ def page(rel, title, body, desc):
 <img src="{up}assets/qr_home.png" alt="교재 지원 페이지 QR 코드">
 <div><b>『2027 네트워크관리사 2급』 교재 지원 페이지</b><br>이수미 지음 · 1권 필기 · 2권 실기<br>
 주소 <span class="num">{E(BASE)}</span><br>
-교재와 연습 웹앱의 문항·과제는 모두 저자가 새로 작성했습니다. 시험 문항 복원 자료는 제공하지 않습니다.</div>
+시험 문항 복원 자료는 제공하지 않습니다.</div>
 </div></footer>
 </body>
 </html>
@@ -193,7 +193,7 @@ def home_page(n_faq):
 </section>
 <section class="sec">
 <div class="sec-h"><span class="no">02</span><h2>이 페이지의 원칙</h2></div>
-<div class="box warn"><span class="lab">제공하지 않는 것</span><p>시험 문항을 복원한 자료는 제공하지 않습니다. 교재와 연습 웹앱의 문항·과제는 모두 저자가 새로 작성했습니다.</p></div>
+<div class="box warn"><span class="lab">제공하지 않는 것</span><p>시험 문항을 복원한 자료는 제공하지 않습니다.</p></div>
 <div class="box key"><span class="lab">주소</span><p>이 페이지의 주소 <span class="num">{E(BASE)}</span>는 교재 뒷표지 QR의 고정 주소입니다. 하위 쪽 주소(/apps/, /errata/, /faq/, /report/)도 바꾸지 않습니다.</p></div>
 </section>
 </div></main>"""
